@@ -1,9 +1,10 @@
 
 
 #include <stdio.h>
+
 int main()
 {
-   char s[1000], r[1000];
+   char s[100], r[100];
    int begin, end, count = 0;
 
    printf("Input a string\n");
